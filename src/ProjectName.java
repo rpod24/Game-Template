@@ -3,7 +3,6 @@ import java.awt.Dimension;
 import javax.swing.JFrame;
 
 public class ProjectName {
-	
 	JFrame frame;
 	GamePanel GamePanel;
 	static final int width = 500;// Sets the width of the game

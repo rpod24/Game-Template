@@ -1,7 +1,6 @@
 import java.awt.Rectangle;
 
 public class GameObject {
-	
 	int x;//X location of the object
     int y;//Y location of the object
     int width;//Width of the object

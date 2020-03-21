@@ -2,7 +2,6 @@ import java.awt.Graphics;
 import java.util.ArrayList;
 
 public class ObjectManager {
-	
 	MainObject mainobject;
 	ArrayList<SecondaryObject> secondaryObjects = new ArrayList<SecondaryObject>();//Creates an array list of the Secondary Objects 
 	
