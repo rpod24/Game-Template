@@ -10,6 +10,7 @@ import javax.swing.JPanel;
 
 @SuppressWarnings("serial")
 public class GamePanel extends JPanel implements KeyListener, ActionListener {
+	
 	final int First_State = 0;
 	final int Second_State = 1;
 	final int Third_State = 2;//Add more if needed
