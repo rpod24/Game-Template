@@ -1,6 +1,7 @@
 import java.awt.Graphics;
 
 public class MainObject  extends GameObject{
+	
 
 	MainObject(int x, int y, int width, int height){
 		//can change the last four variables to different values to change collision box
